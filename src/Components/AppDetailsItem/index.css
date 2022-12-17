@@ -1,0 +1,33 @@
+.list-item-style {
+  list-style-type: none;
+  display: flex;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  width: 300px;
+  align-items: center;
+  justify-content: space-between;
+  font-family: roboto;
+  padding: 15px;
+  color: #ffffff;
+  margin: 25px;
+}
+.stars-style {
+  width: 150px;
+}
+.profile-container {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+}
+.details {
+  margin-right: 25px;
+}
+.deleteIcon {
+  height: 35px;
+  width: 35px;
+}

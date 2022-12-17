@@ -1,0 +1,87 @@
+.main-container {
+  background-color: #9ba9eb;
+  padding: 50px;
+}
+.logo-style {
+  height: 70px;
+  margin-bottom: 25px;
+}
+.top-card-container {
+  background-color: #5763a5;
+  padding: 30px;
+  border-radius: 15px;
+  margin-bottom: 25px;
+}
+.form-heading {
+  font-family: roboto;
+  color: #ffffff;
+}
+.form-container {
+  background-color: #454f84;
+  padding: 15px;
+  border-radius: 15px;
+}
+.input-background-icon {
+  background-color: #ffffff;
+  height: 40px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.input-style {
+  background-color: #ffffff;
+  height: 40px;
+  width: 250px;
+  border: none;
+  padding-left: 10px;
+  font-family: Roboto;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.input-content {
+  display: flex;
+  margin-top: 25px;
+}
+.btn-style {
+  height: 30px;
+  width: 60px;
+  color: #ffffff;
+  font-family: Roboto;
+  border: none;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0b69ff;
+  margin-top: 25px;
+}
+.top-sub-cards {
+  display: flex;
+  justify-content: space-around;
+}
+.image-style {
+  height: 400px;
+  width: 400px;
+}
+.bottom-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.counts {
+  border: 1px solid #ffffff;
+  margin-left: 15px;
+  padding: 10px;
+  border-radius: 30%;
+  color: #ffffff;
+}
+.show-password-content {
+  text-align: right;
+}
+.stored-password-container {
+  display: flex;
+  justify-content: center;
+}
+.all-details {
+  display: flex;
+  flex-wrap: wrap;
+}
